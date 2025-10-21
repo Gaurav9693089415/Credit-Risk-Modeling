@@ -84,14 +84,8 @@ PD_LGD_EAD_MODELING_IN-PYTHON_/
 * **Concepts:** Credit Risk, IFRS 9, PD/LGD/EAD, Expected Credit Loss
 * **Environment:** Jupyter Notebook, VS Code
 
----
 
-##  Future Enhancements
 
-* Add **LGD** and **EAD** estimation modules
-* Integrate **MLflow** for experiment tracking
-* Deploy PD model via **FastAPI / Streamlit**
-* Automate end-to-end modeling pipeline
 
 ---
 
